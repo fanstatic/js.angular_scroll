@@ -1,0 +1,7 @@
+CHANGES
+*******
+
+0.6.2 (unreleased)
+===============================
+
+- Initial release.
